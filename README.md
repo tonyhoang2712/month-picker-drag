@@ -4,7 +4,7 @@
 - Email: chienhd@sudobo.com, hoangchien2712tv@gmail.com
 - Contributors: khaitm@sudobo.com
 
-A Vue.js search select component with NO dependencies.
+A Vue.js MonthPickerDrag component with vue dependencies.
 
 ## Version 0.2.2
 
