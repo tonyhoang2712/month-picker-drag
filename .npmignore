@@ -1,0 +1,15 @@
+.idea
+*.log
+.DS_Store
+node_modules/
+.*
+tests/*
+public
+src/main.js
+src/App.vue
+src/assets
+package-lock.json
+yarn.lock
+!dist/
+webpack.config.js
+.gitignore
