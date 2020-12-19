@@ -12,7 +12,7 @@ A Vue.js search select component with NO dependencies.
 
 ### Release Notes
 
-<https://github.com/chienhd/vue-month-picker>
+<https://github.com/tonyhoang2712/month-picker-drag>
 
 # Usage
 
