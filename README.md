@@ -1,7 +1,8 @@
 # month-picker-drag
 
 - Author: Tony Hoang
-- Email: chienhd@sudobo.com
+- Email: chienhd@sudobo.com, hoangchien2712tv@gmail.com
+- Contributors: khaitm@sudobo.com
 
 A Vue.js search select component with NO dependencies.
 
