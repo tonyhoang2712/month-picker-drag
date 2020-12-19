@@ -68,7 +68,7 @@ export default {
 ```
 
 ## Props
-```Component: MonthPicker```
+```Component: MonthPickerDrag```
 
 | Name             | Type     | Default        | Description                         |
 |------------------|----------|----------------|-------------------------------------|
@@ -76,7 +76,7 @@ export default {
 | startMonth       | Number   |  1             |the starting month of the fiscal year that is currently viewed or active|
 | endMonth         | Number   |  12            |the ending month of the fiscal year that is currently viewed or active|
 | quarterOfYear    | Boolean  | false          |determines that it is either the quarters of the year or the months of the year|
-| language         | String   | vi             |determines that it is either Vietnamese or English|
+| language         | String   | vi or en       |determines that it is either Vietnamese or English|
 | :fiscal-month    | Function | return Object  |it returns an object|
 
 #
